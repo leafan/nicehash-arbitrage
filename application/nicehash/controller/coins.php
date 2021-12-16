@@ -1,0 +1,1 @@
+../../../config/nicehash/coins.php
